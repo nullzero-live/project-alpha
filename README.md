@@ -1,5 +1,5 @@
 # project-alpha
-## An initial exploration of end to end data collection, processing, analysis and learning.
+## An initial exploration of self-driven end to end data collection, processing, analysis and learning. Applying learnt methods to a full pipeline using the messy data of 'the real world.'
 
 Goals:
 1. Resource an interesting and relevant public data source.
