@@ -9,3 +9,5 @@ Goals:
 5. Create a learner.
 6. Learn.
 7. Evaluate results of the best performing model. Include logic to identify the highest performance.
+
+BONUS: Integrate LangChain Chains into the pipeline for inference.
