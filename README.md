@@ -1,5 +1,5 @@
 # project-alpha
-## An initial exploration of self-driven end to end data collection, processing, analysis and learning. Applying learnt methods to a full pipeline using the messy data of 'the real world.' I will perform end-end project research, data collection, framework selection, model and all other factors based on the wisdom of the hive mind that is the internet. My goal is to experience the 
+## An initial exploration of self-driven end to end data collection, processing, analysis and learning. Applying learnt methods to a full pipeline using the messy data of 'the real world.' I will perform end-end project research, data collection, framework selection, model and all other factors based on the wisdom of the hive mind that is the internet. My goal is to fully experience the data science pipeline and all the complexity which comes with it.
 
 Sub-Goals:
 1. Resource an interesting and relevant public data source.
